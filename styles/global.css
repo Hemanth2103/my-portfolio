@@ -1,0 +1,17 @@
+:root {
+    --red: #{theme.colors.red}; 
+    --green: #{theme.colors.green}; 
+    --blue: #{theme.colors.blue}; 
+    --black: #{theme.colors.black}; 
+    --white: #{theme.colors.white}; 
+    --gray: #{theme.colors.gray}; 
+    --font-primary: #{theme.fonts.primary}; 
+  }
+  
+  body {
+    font-family: var(--font-primary);
+    background-color: var(--black); 
+    color: var(--white); 
+    margin: 0;
+    padding: 0;
+  }
