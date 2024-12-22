@@ -1,0 +1,16 @@
+[
+    {
+      "title": "Project 1",
+      "description": "Brief description of Project 1.",
+      "image": "project1.jpg", 
+      "technologies": ["React", "Node.js", "MongoDB"],
+      "category": "web" 
+    },
+    { 
+      "title": "Project 2", 
+      "description": "Brief description of Project 2.", 
+      "image": "project2.jpg", 
+      "technologies": ["Python", "Django", "AWS"], 
+      "category": "backend" 
+    }
+  ]
